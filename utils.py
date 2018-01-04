@@ -1,5 +1,4 @@
 import numpy as np
-import tensorflow as tf
 
 def merge(images, size):
     h, w = images.shape[1], images.shape[2]
